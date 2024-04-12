@@ -1,0 +1,5 @@
+
+CUSTOMER1:08-03-2021:OD001:Chinese:Excellent service and delicious food! The General Tso's Chicken was perfectly cooked, and the Kung Pao Shrimp had just the right amount of spice. Will definitely order again!
+CUSTOMER3:27-01-2023:OD003:Western:Ordered Chicken Chop and Caesar Salad for delivery. The food arrived on time, and the Chicken Chop was tender. The Caesar Salad was fresh, and the dressing was tasty.
+CUSTOMER1:08-03-2021:OD004:Chinese:Great experience dining in! The Mapo Tofu was rich in flavor, and the Chicken and Broccoli was a hit. Prompt and friendly service.
+CUSTOMER4:21-07-2022:OD010:Western:Dined in for Grilled Salmon and BBQ Bacon Burger. The salmon was perfectly cooked, and the burger had a smoky flavor. A satisfying and filling meal.

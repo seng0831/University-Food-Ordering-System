@@ -1,0 +1,3 @@
+Chinese:ven12345:100.00
+Malay:ven12345:10.00
+Western:ven12345:10.00

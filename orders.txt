@@ -1,0 +1,3 @@
+customer1:abc:vendor1:69:Sent
+customer2:def:vendor2:420:Sent
+customer3:ghi:vendor3:6969:Sent
